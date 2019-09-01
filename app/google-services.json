@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565834828574",
+    "firebase_url": "https://inspiring-cat-247609.firebaseio.com",
+    "project_id": "inspiring-cat-247609",
+    "storage_bucket": "inspiring-cat-247609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565834828574:android:57e6eb64b3f0c552",
+        "android_client_info": {
+          "package_name": "routes.example.routes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565834828574-alp5rilfjpa8331c9e0h4s3u4a0fjp5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "routes.example.routes",
+            "certificate_hash": "a7ad53ff912b54ff130f7ee610816f8766e1dd55"
+          }
+        },
+        {
+          "client_id": "565834828574-20c8s67avlv4as3gaqg0ri0916hoc35p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnk4_-O7FU5jio_2O0xIFqkLowmAz_A0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565834828574-20c8s67avlv4as3gaqg0ri0916hoc35p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
